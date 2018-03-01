@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ThinkPHP 5.0
 ===============
 
@@ -131,4 +131,7 @@ ThinkPHP® 商标和著作权所有者为上海顶想信息科技有限公司。
 =======
 # wxpay
 thinkphp5+微信支付
->>>>>>> a84bbb0f5eecd6d6efc13da879d16a2a479f25d9
+
+
+
+JUST MAKE A TEST
